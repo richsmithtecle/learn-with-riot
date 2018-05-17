@@ -12,11 +12,14 @@
 
 <body>
    
+    <!-- Render our todo tag component on index.html -->
     <todo></todo>
     
 
+    <!-- Load in external tag files -->
     <script type="riot/tag" src="tags/todo.tag"></script>
 
+    <!-- Mount all loaded tags -->
     <script type="text/javascript">
         riot.mount('*');
     </script>
