@@ -1,5 +1,0 @@
-<app>
-
-    <todo></todo>
-
-</app>
