@@ -10,7 +10,20 @@
     </ul>
 
     <style>
-    
+
+        #task-list {
+            background-color: whitesmoke;
+            border-bottom: 1px solid grey;
+            /* list-style-type: none; */
+            /* padding: 10px; */
+        }
+        #task-list span {
+            color: red;
+            /* border: 1px solid black;
+            border-radius: 25%;
+            width: 20px;
+            height: 20px; */
+        }
     
     </style>
 
